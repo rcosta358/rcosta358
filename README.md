@@ -4,3 +4,5 @@
 <p align="center">
  <img src="https://skillicons.dev/icons?i=python,java,kotlin,cs,unity,js,nodejs,electron,c,html,css,idea,vscode,powershell,linux,raspberrypi&perline=8" />
 </p>
+
+<a href=#><img src="contributions.svg"></a>
