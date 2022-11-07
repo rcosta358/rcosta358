@@ -3,7 +3,8 @@
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=python,java,kotlin,cs,unity,js,nodejs,electron,c,html,css,idea,vscode,powershell,linux,raspberrypi&perline=8" />
+ <br>
+ ![R1c4rdCo5t4's GitHub stats](https://github-readme-stats.vercel.app/api?username=R1c4rdCo5t4&show_icons=true&theme=tokyonight)
 </p>
 
 
-![R1c4rdCo5t4's GitHub stats](https://github-readme-stats.vercel.app/api?username=R1c4rdCo5t4&show_icons=true&theme=tokyonight)
