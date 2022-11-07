@@ -6,3 +6,4 @@
 </p>
 
 
+![R1c4rdCo5t4's GitHub stats](https://github-readme-stats.vercel.app/api?username=R1c4rdCo5t4&show_icons=true&theme=tokyonight)
