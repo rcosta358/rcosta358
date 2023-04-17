@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=print(%22Hello+World!%22))](https://git.io/typing-svg)
 
-<img src="https://skillicons.dev/icons?i=python,kotlin,js,nodejs,electron,java,cs,unity,html,css,c,bash&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,kotlin,js,java,c,nodejs,electron,cs,unity,html,css,postgresql,bash,git&perline=7"/>
 
 <br>
 
