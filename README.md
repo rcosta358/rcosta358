@@ -6,8 +6,8 @@
 
 <br>
 
-![R1c4rdCo5t4's GitHub stats](https://github-readme-stats.vercel.app/api?username=R1c4rdCo5t4&show_icons=true&theme=tokyonight)
+![rcosta358's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcosta358&show_icons=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=r1c4rdco5t4&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rcosta358&theme=tokyonight)
 
 You can check out my CV [here](https://www.canva.com/design/DAGkmdiRHig/se3wE9x6VauL1uVpxxbjcw/view?utm_content=DAGkmdiRHig&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he0a4b9e9d0)
